@@ -1,0 +1,6 @@
+com\youlexuan\shop\controller\SellerController.class
+com\youlexuan\service\UserDetailsServiceImpl.class
+com\youlexuan\shop\controller\UploadController.class
+com\youlexuan\shop\controller\GoodsController.class
+com\youlexuan\shop\controller\TypeTemplateController.class
+com\youlexuan\shop\controller\ItemCatController.class

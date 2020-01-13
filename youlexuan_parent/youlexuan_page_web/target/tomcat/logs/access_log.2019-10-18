@@ -1,0 +1,15 @@
+0:0:0:0:0:0:0:1 - - [18/Oct/2019:20:20:14 +0800] "GET /149187842867970.html HTTP/1.1" 404 991 http-bio-9105-exec-1 30
+0:0:0:0:0:0:0:1 - - [18/Oct/2019:20:20:14 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-9105-exec-3 1
+0:0:0:0:0:0:0:1 - - [18/Oct/2019:20:21:21 +0800] "GET /js/controller/itemController.js HTTP/1.1" 200 1633 http-bio-9105-exec-5 5
+0:0:0:0:0:0:0:1 - - [18/Oct/2019:20:21:21 +0800] "GET /index/index.js HTTP/1.1" 404 979 http-bio-9105-exec-7 1
+0:0:0:0:0:0:0:1 - - [18/Oct/2019:20:21:21 +0800] "GET /img/xg/erweima.png HTTP/1.1" 404 987 http-bio-9105-exec-8 1
+0:0:0:0:0:0:0:1 - - [18/Oct/2019:20:21:21 +0800] "GET /index/index.js HTTP/1.1" 404 979 http-bio-9105-exec-9 0
+0:0:0:0:0:0:0:1 - - [18/Oct/2019:20:21:21 +0800] "GET /assets/img/favicon.ico HTTP/1.1" 404 995 http-bio-9105-exec-10 1
+0:0:0:0:0:0:0:1 - - [18/Oct/2019:20:21:24 +0800] "GET /149187842867964.html HTTP/1.1" 200 30467 http-bio-9105-exec-10 4
+0:0:0:0:0:0:0:1 - - [18/Oct/2019:20:21:24 +0800] "GET /img/xg/erweima.png HTTP/1.1" 404 987 http-bio-9105-exec-10 1
+0:0:0:0:0:0:0:1 - - [18/Oct/2019:20:21:24 +0800] "GET /index/index.js HTTP/1.1" 404 979 http-bio-9105-exec-10 1
+0:0:0:0:0:0:0:1 - - [18/Oct/2019:20:46:31 +0800] "GET /149187842867970.html HTTP/1.1" 404 991 http-bio-9105-exec-1 30
+0:0:0:0:0:0:0:1 - - [18/Oct/2019:20:47:13 +0800] "GET /js/controller/itemController.js HTTP/1.1" 304 - http-bio-9105-exec-3 3
+0:0:0:0:0:0:0:1 - - [18/Oct/2019:20:47:13 +0800] "GET /index/index.js HTTP/1.1" 404 979 http-bio-9105-exec-5 1
+0:0:0:0:0:0:0:1 - - [18/Oct/2019:20:47:13 +0800] "GET /img/xg/erweima.png HTTP/1.1" 404 987 http-bio-9105-exec-6 1
+0:0:0:0:0:0:0:1 - - [18/Oct/2019:20:47:13 +0800] "GET /index/index.js HTTP/1.1" 404 979 http-bio-9105-exec-7 1

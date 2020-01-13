@@ -1,0 +1,4 @@
+com\youlexuan\seckill\controller\SeckillGoodsController.class
+com\youlexuan\seckill\controller\PayController.class
+com\youlexuan\seckill\controller\SeckillOrderController.class
+com\youlexuan\seckill\service\UserDetailServiceImpl.class

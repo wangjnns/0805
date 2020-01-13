@@ -1,0 +1,4 @@
+com\youlexuan\user\controller\LoginController.class
+com\youlexuan\user\controller\AddressController.class
+com\youlexuan\user\service\UserDetailServiceImpl.class
+com\youlexuan\user\controller\UserController.class

@@ -1,0 +1,9 @@
+com\youlexuan\sellergoods\service\SellerService.class
+com\youlexuan\sellergoods\service\ItemService.class
+com\youlexuan\sellergoods\service\GoodsDescService.class
+com\youlexuan\sellergoods\service\SpecificationService.class
+com\youlexuan\sellergoods\service\TypeTemplateService.class
+com\youlexuan\sellergoods\service\BrandService.class
+com\youlexuan\sellergoods\service\GoodsService.class
+com\youlexuan\sellergoods\service\ItemCatService.class
+com\youlexuan\sellergoods\service\SpecificationOptionService.class
